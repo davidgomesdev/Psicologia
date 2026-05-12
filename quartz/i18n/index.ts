@@ -17,6 +17,7 @@ import zh from "./locales/zh-CN"
 import zhTw from "./locales/zh-TW"
 import vi from "./locales/vi-VN"
 import pt from "./locales/pt-BR"
+import ptPt from "./locales/pt-PT"
 import hu from "./locales/hu-HU"
 import fa from "./locales/fa-IR"
 import pl from "./locales/pl-PL"
@@ -70,6 +71,7 @@ export const TRANSLATIONS = {
   "zh-TW": zhTw,
   "vi-VN": vi,
   "pt-BR": pt,
+  "pt-PT": ptPt,
   "hu-HU": hu,
   "fa-IR": fa,
   "pl-PL": pl,
