@@ -9,14 +9,13 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Psicologia",
-    pageTitleSuffix: " · Psicologia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "pt-PT",
-    baseUrl: "psicologia.pages.dev",
+    baseUrl: "psicologia.davidgomes.blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

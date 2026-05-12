@@ -3,9 +3,7 @@ title: Psicologia
 tags: []
 ---
 
-# Psicologia
-
-Notas pessoais sobre conceitos de psicologia.
+Notas pessoais do que vou aprendendo sobre psicologia.
 
 ## Áreas
 
