@@ -1,8 +1,8 @@
 ---
 title: Memória
-tags: []
+tags:
+  - manual-psicologia
 ---
-
 ## Tipos de memória
 
 - de trabalho
