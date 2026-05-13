@@ -10,4 +10,3 @@ tags: []
 	- é imediatamente acessível mas limitada
 - longo-prazo
 	- possui uma capacidade enorme, mas recuperá-la às vezes pode não ser tão fácil
-
